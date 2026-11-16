@@ -55,4 +55,4 @@ https://github.com/GeospatialResearchLab/workshop-data-cleaning-tatort-2026
 
 ## License
 
-Workshop materials are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The *Tatort* episode data is adapted from Wikipedia and remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Workshop materials are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The *Tatort* episode data is adapted from Wikipedia and remains under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
